@@ -50,7 +50,7 @@ func Banner(){
     print("       ░  ░  ▒▓▒    ░░       ")
     print("        ░     ▒░░░░░         ")
     print("         ░░░                 ")
-    print("\nVoid Feeder\n By Henry Oliver Sucks\n\n\nPress Enter To Begin")
+    print("\nVoid Feeder\n By Henry Oliver \n\n\nPress Enter To Begin")
     let delay = readLine()
 }
 
